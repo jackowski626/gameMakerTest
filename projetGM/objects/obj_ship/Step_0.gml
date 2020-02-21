@@ -20,6 +20,10 @@ if(keyboard_check(vk_right)){
 
 if(keyboard_check(vk_up)){
 	motion_add(image_angle, vitesse);	
+} else if(speed > 0.1){
+	speed -= 0.1;
+} else {
+	//speed = 0;
 }
 
 move_wrap(true, true, sprite_width/2);
