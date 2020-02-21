@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_asteroid",
     "eventList": [
-        
+        {
+            "id": "96cc5482-a3ab-4d5b-9683-95240fa8e054",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6032fc67-3d1b-4b83-8df4-3d9d43dc4a08"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
