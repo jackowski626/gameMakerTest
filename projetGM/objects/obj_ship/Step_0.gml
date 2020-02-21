@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-vitesse = 0.05;
+vitesse = 0.10;
 vitesse_max = 4;
 
 if(keyboard_check(vk_left)){
